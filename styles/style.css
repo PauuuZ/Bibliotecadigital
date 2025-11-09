@@ -21,6 +21,7 @@ button {
     color: white;
     border: none;
     cursor: pointer;
+    margin-top: 10px;
 }
 
 button:hover {
@@ -29,4 +30,16 @@ button:hover {
 
 #biblioteca {
     margin-top: 20px;
+}
+
+#resultado {
+    margin-top: 20px;
+}
+
+#biblioteca h2 {
+    margin-bottom: 10px;
+}
+
+#biblioteca p {
+    margin: 5px 0;
 }
